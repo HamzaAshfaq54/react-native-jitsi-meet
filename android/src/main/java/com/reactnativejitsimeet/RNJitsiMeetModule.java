@@ -158,7 +158,7 @@ public class RNJitsiMeetModule extends ReactContextBaseJavaModule {
                     Timber.e("Participant joined%s", event.getData().get("name"));
                     break;
                 case ENDPOINT_TEXT_MESSAGE_RECEIVED:
-                    Timber.e("ENDPOINT_TEXT_MESSAGE_RECEIED" + event.getData().keySet());
+                    Timber.e("ENDPOINT_TEXT_MESSAGE_RECEIED" + event.getData().get("message"));
                     break;
                 case AUDIO_MUTED_CHANGED:
                     Timber.e("AUDIO_MUTED_CHANGED" + event.getData().keySet());
