@@ -37,7 +37,7 @@ android {
 
 repositories {
   maven {
-      url "file:/tmp/repo"
+      url "file:./../jitsiSdk"
   }
   google()
   mavenCentral()
