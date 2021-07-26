@@ -3,11 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-async-storage</artifactId>
   <versioning>
-    <latest>1.13.2-jitsi-8098375</latest>
-    <release>1.13.2-jitsi-8098375</release>
+    <latest>1.13.2-jitsi-8098606</latest>
+    <release>1.13.2-jitsi-8098606</release>
     <versions>
-      <version>1.13.2-jitsi-8098375</version>
+      <version>1.13.2-jitsi-8098606</version>
     </versions>
-    <lastUpdated>20210726062915</lastUpdated>
+    <lastUpdated>20210726070750</lastUpdated>
   </versioning>
 </metadata>
